@@ -27,4 +27,5 @@ eg:
 ```sh
 export PATH="$PATH:/Users/[name]/dev/.bin"
 ```
+this will allow you to access your projects like they were built in commands
 
