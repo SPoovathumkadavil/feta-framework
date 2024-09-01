@@ -7,6 +7,6 @@
 [submodule "loc-maker"]
 	path = loc-maker
 	url = https://github.com/SPoovathumkadavil/loc-maker
-[submodule "boilerlib"]
-	path = boilerlib
-	url = https://github.com/SPoovathumkadavil/boilerlib
+[submodule "fetalib"]
+	path = fetalib
+	url = https://github.com/SPoovathumkadavil/fetalib
