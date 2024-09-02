@@ -2,6 +2,8 @@
 
 ## Boilerman/Cheesy Ecosystem
 
+2024-09-02 - [cli lib]()
+
 2024-08-22 - [boilerman]()
 A better cpp boilerplate with better file utils to make its usage preferable to python which is currently much more user friendly.
 
