@@ -4,7 +4,7 @@ TARGET_LIB="$HOME/.local/library"
 TARGET_CONF="$HOME/.local/config" 
 TARGET_BIN="$HOME/.local/bin"
 TARGET_SCRIPTS="$HOME/.local/scripts" 
-TARGET_WORK="$HOME/devel"
+TARGET_WORK="$HOME/dev"
 
 echo "downloading loc-maker..."
 mkdir -p .tmp-loc
